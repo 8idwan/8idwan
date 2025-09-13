@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a student looking for an **internship**
+ 🔭 I’m currently an M2 student looking for an **internship**
 
 </div>
  
