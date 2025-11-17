@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ridouane+ANNOUN!;" />
 </h1>
 
-<h3 align="center">Computer Science Student & Software Developer from Morocco and currently studying in France</h3>
+<h3 align="center">Moroccan Computer Science Student & Software Developer, currently studying in France</h3>
 
 <br/>
 
